@@ -1,0 +1,12 @@
+__pycache__
+.env
+.learn
+*.jpg
+# Ignorar entorno virtual
+venv/
+venv_ds/
+
+# Ignorar modelos y datos pesados
+models/
+data/
+*.h5
